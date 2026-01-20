@@ -7,4 +7,5 @@
 # Esp
 * Box
 * Line
-* Info
+* Inf
+* o
